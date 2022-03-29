@@ -1,4 +1,4 @@
-# Data-Analysis-on-CO2-Emission
+# Data-Analysis-on-Co2-Emission
 This is a Guru99 live python project on CO2 Emission for different countries
 
 Steps taken in this project
